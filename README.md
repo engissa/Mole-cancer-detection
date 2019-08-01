@@ -1,4 +1,4 @@
-# Mole-cancer-detection
+# Mole Cancer Feature Extraction
 ## Introduction
 Melanoma is a dangerous form of cancer that hits the skin cells and leads them to multiply rapidly and form malignant tumors. It often resembles moles and is caused mainly by intense UV exposure. The majority of the infected cells are black or brown but can also be skin- colored pink, red, purple, blue, or white. If melanoma is recognized and treated early, it is almost always curable; otherwise, the cancer advance and spread to other parts of the body. To diagnose melanoma, Doctors look at the ABCDE signs :
 * A asymmetry
